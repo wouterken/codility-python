@@ -1,0 +1,1 @@
+A number of Gold (100%) solutions to codility problems written in Python.
